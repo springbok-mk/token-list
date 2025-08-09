@@ -1,0 +1,11 @@
+{
+  "name": "Springbok",
+  "symbol": "SPRINGBOK",
+  "description": "Springbok je komunitní SPL token na Solaně.",
+  "image": "https://raw.githubusercontent.com/springbok-mk/token-list/main/assets/mainnet/DaDFYN4a9UgYC8kKxQP8NuEUwdzvVmK8CeoU7GDSa9jY/logo.png",
+  "extensions": {
+    "website": "https://github.com/springbok-mk/token-list",
+    "twitter": "https://twitter.com/"
+  },
+  "tags": ["utility", "community"]
+}
